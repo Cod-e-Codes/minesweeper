@@ -32,7 +32,7 @@ A modern Minesweeper game built with Flutter! This app features a clean UI, anim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/flutter-minesweeper.git
+   git clone https://github.com/Cod-e-Codes/minesweeper.git
    ```
 
 2. Navigate to the project directory:
